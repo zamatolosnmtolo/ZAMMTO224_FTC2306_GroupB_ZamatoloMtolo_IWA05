@@ -1,6 +1,8 @@
-FREE_WARNING = 'Free shipping only applies to single customer orders'
-BANNED_WARNIN = 'Unfortunately we do not ship to your country of residence'
-NONE_SELECTED = '0'
+const SHOES_COST = 300;
+const TOYS_COST = 100;
+const PENS_COST = 5;
+const SHIRTS_COST = 150;
+const BATTERIES_COST = 35;
 
 if (location = RSA) { shipping === 400 && currency === 'R' }
 
