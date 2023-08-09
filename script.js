@@ -4,6 +4,12 @@ const PENS_COST = 5;
 const SHIRTS_COST = 150;
 const BATTERIES_COST = 35;
 
+/* Quantity of items selected:*/
+const shoesQuantity = 1;
+const batteriesQuantity = 2;
+const toysQuantity = 5;
+const pensQuantity = 0; /* no pens were selected*/
+const shirtsQuantity = 0; /* no shirts were selected*/
 if (location = RSA) { shipping === 400 && currency === 'R' }
 
 if location = NAM
