@@ -5,6 +5,10 @@ const PENS_COST = 5;
 const SHIRTS_COST = 150;
 const BATTERIES_COST = 35;
 
+// Set the value of customers and currencySymbol:
+let customers = 1;
+let currencySymbol = null;
+
 /* Quantity of items selected:*/
 const shoesQuantity = 1;
 const batteriesQuantity = 2;
@@ -21,8 +25,6 @@ const totalCost =
   PENS_COST * pensQuantity;
 
 let shippingCost = null;
-let currencySymbol = "$";
-
 const customerLocation = "RSA";
 
 // Shipping costs and currency conditions;//
@@ -58,7 +60,3 @@ if (
   // only 1 customer
   shippingCost = 0;
 }
-
-// Set the value of customers and currencySymbol:
-let customers = 1;
-currencySymbol = null;
